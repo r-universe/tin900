@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "vvauditor"]
+	path = vvauditor
+	url = https://github.com/cran/vvauditor
+	shallow = true
+	registered = true
+[submodule "vvconverter"]
+	path = vvconverter
+	url = https://github.com/cran/vvconverter
+	shallow = true
+	registered = true
+[submodule "vvmover"]
+	path = vvmover
+	url = https://github.com/cran/vvmover
+	shallow = true
+	registered = true
+[submodule "vvsculptor"]
+	path = vvsculptor
+	url = https://github.com/cran/vvsculptor
+	shallow = true
+	registered = true
