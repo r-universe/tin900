@@ -8,9 +8,6 @@
 [submodule "vvconverter"]
 	path = vvconverter
 	url = https://github.com/cran/vvconverter
-[submodule "vvmover"]
-	path = vvmover
-	url = https://github.com/cran/vvmover
 [submodule "vvsculptor"]
 	path = vvsculptor
 	url = https://github.com/cran/vvsculptor
