@@ -5,9 +5,6 @@
 [submodule "vvauditor"]
 	path = vvauditor
 	url = https://github.com/cran/vvauditor
-[submodule "vvconverter"]
-	path = vvconverter
-	url = https://github.com/cran/vvconverter
 [submodule "vvsculptor"]
 	path = vvsculptor
 	url = https://github.com/cran/vvsculptor
